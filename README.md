@@ -1,2 +1,2 @@
-# DEP-Internship-
-Data Science Internship with Digital Empowermenrt Pakistan
+# DEP-Internship-Projects
+Data Science Internship with Digital Empowerment Pakistan
